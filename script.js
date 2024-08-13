@@ -3,7 +3,7 @@ $(document).ready(function() {
 
      $('#btndownload').click(function(e) {
      e.preventDefault();
-     window.location.href="gourimain_resume3.pdf";
+     window.location.href="gourib31071996.pdf";
 
  });
 
