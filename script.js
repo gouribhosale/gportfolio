@@ -3,7 +3,7 @@ $(document).ready(function() {
 
      $('#btndownload').click(function(e) {
      e.preventDefault();
-     window.location.href="Gouri_DevOps_Engineer.pdf";
+     window.location.href="Gouri_Data_Engineer.pdf";
 
  });
 
