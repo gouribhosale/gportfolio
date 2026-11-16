@@ -3,7 +3,7 @@ $(document).ready(function() {
 
      $('#btndownload').click(function(e) {
      e.preventDefault();
-     window.location.href="Gouri_Data_Engineer_1.pdf";
+     window.location.href="GOURI_RESUME_ADE.pdf";
 
  });
 
